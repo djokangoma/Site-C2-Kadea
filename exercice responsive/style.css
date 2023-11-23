@@ -1,0 +1,138 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*
+.section-1{
+    background-image: url("./assets/_VAN0416.jpg");
+    width: 1330px;
+    height: 639px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: #ebebeb;
+}
+.section-1 img{
+    opacity: 0.5;
+}
+.section-1 h2{
+    text-align: center;
+}
+
+.section-2{
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 558px;
+}
+.icons{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    text-align: center;
+}
+.frontend{
+    margin-top: -30px;
+}
+/*
+.section-3{
+    text-align: center;
+
+    background-color: #d39393;
+    height: 639px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    background-color: #d39393;
+}*/
+.box-1{
+    width: 256px;
+    height: 238px;
+}
+.box-2{
+    width: 256px;
+    height: 238px;
+}
+.box-3{
+    width: 256px;
+    height: 238px;
+}
+.block-projet{
+    display: flex;
+/*     
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    /* height: 1270px; */
+}
+
+.section-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #d9d9d9;
+    height: 900px;
+}
+.block-projet {
+    display: flex;
+
+}
+.m-fort{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 70px;
+}
+
+
+.section-5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#d39393 ;
+    height: 450px;
+}
+.coach{
+    display: flex;
+    gap: 250px;
+    margin-top: 40px;
+}
+
+
+.section-6{
+    background-color: #d9d9d9;
+    width: 1330px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    height: 636px;
+}
+.img-equipe{
+    margin-top: 50px;
+}
+.section-6 h2{
+    margin-top: 50px;
+}
+
+footer{
+    background-color: #d39393;
+    text-align: center;
+    color: #000;
+    font-size: 30px;
+    height: 288px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
